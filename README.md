@@ -1,4 +1,4 @@
-geminus: Simple R functions for interacting with Gemini & GPT APIs
+extword: Simple R functions for interacting with Gemini & GPT APIs
 ================
 Andy Gougherty
 2025-06-16
@@ -31,8 +31,8 @@ is Gemini 1.5 Flash.
 ### Installation
 
 ``` r
-devtools::install_github("agougher/geminus", dependencies = TRUE)
-library(geminus)
+devtools::install_github("agougher/extword", dependencies = TRUE)
+library(extword)
 ```
 
 ### Examples
