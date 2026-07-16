@@ -1,5 +1,5 @@
 ---
-title: "geminus: Simple R functions for interacting with Gemini & GPT APIs"
+title: "extword: Simple R functions for interacting with Gemini & GPT APIs"
 author: "Andy Gougherty"
 date: "`r Sys.Date()`"
 output: github_document
@@ -22,8 +22,8 @@ Note, a Gemini or OpenAI API key is needed for these functions to run, and the k
 ### Installation
 
 ```{r eval=FALSE}
-devtools::install_github("agougher/geminus", dependencies=TRUE)
-library(geminus)
+devtools::install_github("agougher/extword", dependencies=TRUE)
+library(extword)
 
 ```
 
