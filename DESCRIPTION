@@ -1,4 +1,4 @@
-Package: geminus
+Package: extword
 Type: Package
 Title: Simple functions for interacting with Google's Gemini API & OpenAI's GPT API 
 Version: 0.1.0
